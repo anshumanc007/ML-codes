@@ -1,2 +1,2 @@
 # ML-codes
-codes related to basic Machine Learning Algorithms
+codes related to  Machine Learning Algorithms
